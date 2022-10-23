@@ -8,7 +8,7 @@ This is a back-end Project, part of [Trybe](https://www.betrybe.com/) school req
 
 <strong>Here I had to exercise:</strong> MongoDB, Docker.
 
-![Project Image](assets/Project-image.png)
+![Project Image](image/mongodb-commerce-project.png)
 
 
 # How to run it:
