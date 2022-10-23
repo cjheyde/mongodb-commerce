@@ -22,10 +22,17 @@ This is a back-end Project, part of [Trybe](https://www.betrybe.com/) school req
  
 
 command to install it: `npm install` <br />
+
 Docker commands
-  To create a container: `docker run -d --name=nomeDoContainer -v "$PWD:/app" -p 27017:27017 mongo:5.0` <br />
-  To access the container: `docker exec -it nomeDoContainer bash` <br />
-command to reset the database: `DBNAME=commerce ./scripts/resetdb.sh assets/produtos`
+  To create a container: 
+  `docker run -d --name=nomeDoContainer -v "$PWD:/app" -p 27017:27017 mongo:5.0` <br />
+  
+  To access the container: 
+  `docker exec -it nomeDoContainer bash` <br />
+  
+command to reset the database: 
+`DBNAME=commerce ./scripts/resetdb.sh assets/produtos`
+
 
 
 # Files/Folders Ownership
