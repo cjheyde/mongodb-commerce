@@ -43,23 +43,12 @@ Here you find a list of files and or folders according to the ownership.
  <summary><strong>🙋‍♀️ I coded myself:</strong></summary><br />
    
   ```markdown  
-  src/
-
+  challenges/
   README.md
   ```
  
  </details>
 
-
-<details>
- <summary><strong>🧑‍🤝‍🧑 I coded partially:</strong></summary><br />
- 
- ```markdown   
-  src/
-
- ```
- 
- </details>
 
 <details>
  <summary><strong>🏫 coded by the school:</strong></summary><br />
